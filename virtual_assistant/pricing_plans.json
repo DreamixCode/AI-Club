@@ -1,0 +1,14 @@
+{
+  "basic": {
+    "price": 19,
+    "features": ["Email support", "Basic analytics", "Single user"]
+  },
+  "pro": {
+    "price": 49,
+    "features": ["Priority support", "Advanced analytics", "Up to 5 users"]
+  },
+  "enterprise": {
+    "price": 199,
+    "features": ["Dedicated account manager", "Custom integrations", "Unlimited users"]
+  }
+}
